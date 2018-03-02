@@ -1,5 +1,6 @@
 AlgorithmQuiz
-=========
+=============
+
 
 알고리즘에 대한 학습을 위해서
 link:https://programmers.co.kr/learn/challenges[programmers]에
