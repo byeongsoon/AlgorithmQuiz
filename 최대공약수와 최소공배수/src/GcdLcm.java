@@ -4,6 +4,7 @@ public class GcdLcm {
     int big,small;
     int temp = 1;
     int lcm = numberOne * numberTwo;
+
     if(numberOne > numberTwo){
       big = numberOne;
       small = numberTwo;
@@ -13,11 +14,11 @@ public class GcdLcm {
     }
     while(temp != 0){
       temp = big % small;
-      numberTwo = numberOne;
-      numberOne = temp;
+      big = small;
+      small = temp;
     }
-    answer[0] = numberTwo;
-    answer[1] = lcm/numberTwo;
+    answer[0] = big;
+    answer[1] = lcm/big;
 
 
     return answer;
