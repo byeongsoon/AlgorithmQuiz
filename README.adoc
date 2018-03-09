@@ -38,3 +38,5 @@ link:https://github.com/ByeongSoon/TIL/tree/master/Algorithm[여기]에
 ** link:https://github.com/ByeongSoon/AlgorithmQuiz/blob/master/%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9/src/SumDivisor.java[약수의 합]
 ** link:https://github.com/ByeongSoon/AlgorithmQuiz/blob/master/%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0/src/GetMean.java[평균구하기]
 ** link:https://github.com/ByeongSoon/AlgorithmQuiz/blob/master/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98/src/Fibonacci.java[피보나치 수]
+** link:https://github.com/ByeongSoon/AlgorithmQuiz/blob/master/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98/src/Fibonacci.java[짝수와 홀수]
+** link:https://github.com/ByeongSoon/AlgorithmQuiz/blob/master/%EC%82%BC%EA%B0%81%ED%98%95%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/src/PrintTriangle.java[삼각형 출력하기]
