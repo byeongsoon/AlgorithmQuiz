@@ -14,6 +14,7 @@ class NumOfPrime {
         result++;
     }
     */
+    
     for(int i = 2; i <= number ; i++){ // 2차 풀이
       count = 0;
       for(int j = 2;j < i;j++){
