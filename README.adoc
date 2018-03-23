@@ -45,3 +45,5 @@ link:https://github.com/ByeongSoon/TIL/tree/master/Algorithm[여기]에
 ** link:https://github.com/ByeongSoon/AlgorithmQuiz/blob/master/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0/src/NumOfPrime.java[소수 찾기]
 ** link:https://github.com/ByeongSoon/AlgorithmQuiz/blob/master/%ED%95%98%EC%83%A4%EB%93%9C%EC%88%98/src/HarshadNumber.java[하샤드수]
 ** link:https://github.com/ByeongSoon/AlgorithmQuiz/blob/master/%ED%96%89%EB%A0%AC%EC%9D%98%EA%B3%B1%EC%85%88/src/ProductMatrix.java[행렬의 곱셈]
+** link:https://github.com/ByeongSoon/AlgorithmQuiz/blob/master/%EC%9A%94%EC%9D%BC%EC%95%8C%EC%95%84%EB%82%B4%EA%B8%B0/src/DayName.java[요일 알아내기]
+** link:https://github.com/ByeongSoon/AlgorithmQuiz/blob/master/%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0/src/MinSum.java[최솟값 만들기]
