@@ -7,12 +7,14 @@ public class InsertionSort {
 
         for (i = 1; i < count; i++) {
             temp = arr[i];
-            j = i;
-            for (; (j > 0) && (arr[j-1] > temp); j--) {
+
+            for (j = i; (j>0) && (arr[j-1]>temp); j--) {
                 arr[j] = arr[j-1];
             }
+
             arr[j] = temp;
-            System.out.println("반복 - " + i);
+
+            System.out.println("반복-" + i);
             printSort(arr,count);
         }
     }
