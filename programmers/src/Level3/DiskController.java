@@ -10,20 +10,29 @@ public class DiskController {
     public static int solution(int[][] jobs) {
         int answer = 0;
         int totalTime = 0;
+        int job = 0;
+        int time = 0;
 
         PriorityQueue<String> jobQueue = new PriorityQueue<>();
 
-        for (int[] arr: jobs)
-            jobQueue.add(arr[1]+","+arr[0]);
+        for (int i = 1; i < jobs.length; i++) {
+            jobQueue.add(jobs[i][1]+","+jobs[i][0]);
+        }
+
+        job = jobs[0][1];
+        time = jobs[0][0];
+
+        if (time > totalTime)
+            totalTime = time - totalTime;
+
+        totalTime += job;
+        answer += (totalTime-time);
 
         while (jobQueue.size() > 0) {
 
             String[] arr = jobQueue.poll().split(",");
-            int job = Integer.parseInt(arr[0]);
-            int time = Integer.parseInt(arr[1]);
-
-            if (time > totalTime)
-                totalTime = time - totalTime;
+            job = Integer.parseInt(arr[0]);
+            time = Integer.parseInt(arr[1]);
 
             totalTime += job;
             answer += (totalTime-time);
