@@ -1,8 +1,11 @@
 # Back End School 3th Algorithm Solution
 
+멋쟁이 사자처럼 Back End School 3기의 커리큘럼 중 포함되어 있는 코딩 테스트 대비 알고리즘 문제를 먼저 풀어보고 풀이 코드를 정리한다.
+
 ## 목차
 
 1. [1주차](#1Week)
+2. [2주차](#2Week)
 
 ## 1Week
 
@@ -25,3 +28,10 @@
 - 두 수의 나눗셈 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120806)
 - 짝수의 합 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120831)
 
+## 2Week
+
+### 02/28
+
+### 03/02
+
+### 03/03
