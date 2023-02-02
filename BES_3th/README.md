@@ -12,41 +12,75 @@
 ## 1Week
 
 ### 02/22
- 
-- 두 수의 차 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120803?language=java)
-- 숫자 비교하기 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)
-- 몫 구하기 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120805)
+
+- [두 수의 차](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week1/day_0222/SubtractionOfTwoNumbers.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120803?language=java)
+
+- [숫자 비교하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week1/day_0222/CompareNumbers.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)
+
+- [몫 구하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week1/day_0222/FindDivisionValue.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120805)
 
 ### 02/23
 
-- 두 수의 곱 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120804)
-- 나머지 구하기 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)
-- 나이 출력 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120820)
-- 두 수의 합 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120802)
+- [두 수의 곱](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week1/day_0223/MultiplicationOfTwoNumbers.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120804)
+
+- [나머지 구하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week1/day_0223/FindRemainderValue.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)
+
+- [나이 출력](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week1/day_0223/PrintAge.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120820)
+
+- [두 수의 합](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week1/day_0223/SumOfTwoNumbers.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120802)
 
 ### 02/24
 
-- 각도기 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)
-- 두 수의 나눗셈 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120806)
-- 짝수의 합 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120831)
+- [각도기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week1/day_0224/Angle.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)
+
+- [두 수의 나눗셈](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week1/day_0224/DivisionOfTwoNumbers.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120806)
+
+- [짝수의 합](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week1/day_0224/SumOfEvenNumbers.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120831)
 
 ## 2Week
 
 ### 02/28
 
-- 배열의 평균값 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120817)
-- 양꼬치 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120830)
-- 짝수 홀수 개수 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120824)
+- [배열의 평균값](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week2/day_0228/AverageOfArray.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120817)
+
+- [양꼬치](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week2/day_0228/LambSkewers.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120830)
+
+- [짝수 홀수 개수](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week2/day_0228/EvenOddNumbers.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120824)
 
 ### 03/02
 
-- 점의 위치 구하기 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120841)
-- 피자 나눠 먹기(1) / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120814) 
-- 배열 뒤집기 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)
+- [점의 위치 구하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week2/day_0302/findLocationOfPoint.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120841)
+
+- [피자 나눠 먹기(1)](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week2/day_0302/SharePizza.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120814)
+
+- [배열 뒤집기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week2/day_0302/FlipArray.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)
 
 ### 03/03
 
-- 배열 원소의 길이 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120854)
-- 문자열 뒤집기 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)
-- 피자 나눠 먹기(3) / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120816)
-- 중복된 숫자 개수 / [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120583)
+- [배열 원소의 길이](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week2/day_0303/LengthOfArrayElement.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120854)
+
+- [문자열 뒤집기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week2/day_0303/ReverseString.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)
+
+- [피자 나눠 먹기(3)](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week2/day_0303/SharePizza.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120816)
+
+- [중복된 숫자 개수](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week2/day_0303/DuplicateDigits.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120583)
