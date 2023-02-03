@@ -8,6 +8,7 @@
 
 1. [1주차](#1Week)
 2. [2주차](#2Week)
+3. [3주차](#3Week)
 
 ## 1Week
 
@@ -84,3 +85,73 @@
 
 - [중복된 숫자 개수](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week2/day_0303/DuplicateDigits.java) / 
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120583)
+
+## 3Week
+
+### 03/07
+
+- [특정 문자 제거하기]() / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)
+
+- [머쓱이보다 키 큰 사람]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120585)
+
+- [문자 반복 출력하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)
+
+- [배열 자르기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)
+
+### 03/08
+
+- [최댓값 만들기(1)]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120847)
+
+- [짝수는 싫어요]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120813)
+
+- [아이스 아메리카노]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120819)
+
+- [삼각형의 완성조건(1)]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120889)
+
+- [편지]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120898)
+
+### 03/09
+
+- [배열 두 배 만들기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120809)
+
+- [중앙값 구하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)
+
+- [옷가게 할인 받기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)
+
+- [순서쌍의 개수]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120836)
+
+### 03/10
+
+- [배열의 유사도]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120903)
+
+- [자릿수 더하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120906)
+
+- [문자열안에 문자열]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120908)
+
+- [제곱수 판별하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)
+
+- [모음 제거]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120849)
+
+- [숨어있는 숫자의 덧셈(1)]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120851)
+
+- [개미 군단]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120837)
