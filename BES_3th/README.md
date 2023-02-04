@@ -175,19 +175,19 @@
 
 ### 03/14
 
-- [가위 바위 보]() /
+- [가위 바위 보](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week4/day_0314/RockPaperScissors.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120839)
 
-- [직각삼각형 출력하기]() /
+- [직각삼각형 출력하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week4/day_0314/PrintRightTriangle.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120823)
 
-- [주사위의 개수]() /
+- [주사위의 개수](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week4/day_0314/NumberOfDice.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120845)
 
-- [문자열 정리하기(1)]() /
+- [문자열 정리하기(1)](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week4/day_0314/SortString.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120850)
 
-- [배열 회전시키기]() /
+- [배열 회전시키기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week4/day_0314/RotateArray.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120844)
 
 ### 03/15
