@@ -173,7 +173,7 @@ Temporary Items
 # Directories potentially created on remote AFP share
 
 ### Gradle ###
-.gradle
+.gradle/
 **/build/
 !src/**/build/
 
