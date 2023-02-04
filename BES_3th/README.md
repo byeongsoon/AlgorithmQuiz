@@ -9,6 +9,7 @@
 1. [1주차](#1Week)
 2. [2주차](#2Week)
 3. [3주차](#3Week)
+4. [4주차](#4Week)
 
 ## 1Week
 
@@ -155,3 +156,73 @@
 
 - [개미 군단]() /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120837)
+
+## 4Week
+
+### 03/13
+
+- [세균 증식]() / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120910)
+
+- [암호 해독]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120892)
+
+- [대문자와 소문자]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120893)
+
+- [n의 배수 고르기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120905)
+
+### 03/14
+
+- [가위 바위 보]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120839)
+
+- [직각삼각형 출력하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120823)
+
+- [주사위의 개수]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120845)
+
+- [문자열 정리하기(1)]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120850)
+
+- [배열 회전시키기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120844)
+
+### 03/15
+
+- [가장 큰 수 찾기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120899)
+
+- [피자 나눠 먹기(2)]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120815)
+
+- [인덱스 바꾸기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120895)
+
+- [최댓값 만들기(2)]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120862)
+
+- [외계행성의 나이]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120834)
+  
+### 03/16
+
+- [약수 구하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120897)
+
+- [369게임]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120891)
+
+- [숫자 찾기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120904)
+
+- [문자열 정리하기(2)]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120911)
+
+- [합성수 찾기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)
+
+- [모스부호(1)]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120838)
