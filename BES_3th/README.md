@@ -161,16 +161,16 @@
 
 ### 03/13
 
-- [세균 증식]() / 
+- [세균 증식](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week4/day_0313/BacterialGrowth.java) / 
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120910)
 
-- [암호 해독]() /
+- [암호 해독](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week4/day_0313/Decryption.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120892)
 
-- [대문자와 소문자]() /
+- [대문자와 소문자](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week4/day_0313/UppercaseLowercase.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120893)
 
-- [n의 배수 고르기]() /
+- [n의 배수 고르기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week4/day_0313/FindMultiplesOfN.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120905)
 
 ### 03/14
