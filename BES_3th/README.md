@@ -10,6 +10,7 @@
 2. [2주차](#2Week)
 3. [3주차](#3Week)
 4. [4주차](#4Week)
+5. [5주차](#5Week)
 
 ## 1Week
 
@@ -226,3 +227,69 @@
 
 - [모스부호(1)](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week4/day_0316/MorseCode.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120838)
+
+## 5Week
+
+### 03/20
+
+- [중복된 문자 제거]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120888)
+
+- [A로 B 만들기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)
+
+- [팩토리얼]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
+
+- [2차원으로 만들기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120842)
+
+- [가까운 수]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120890)
+
+- [k의 개수]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120887)
+
+- [진료순서 정하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)
+
+- [한 번만 등장한 문자]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120896)
+
+- [숨어있는 숫자의 덧셈(2)]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120864)
+
+- [이진수 더하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120885)
+
+### 03/22
+
+- [7의 개수]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120912)
+
+- [소인수분해]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120852)
+
+- [공 던지기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120843)
+
+- [영어가 싫어요]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120894)
+
+- [잘라서 배열로 저장하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)
+
+- [문자열 계산하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120902)
+
+- [구슬을 나누는 경우의 수]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
+
+- [컨트롤 제트]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120853)
+
+- [삼각형의 완성조건(2)]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120868)
+
+- [외계어 사전]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120869)
