@@ -264,32 +264,32 @@
 
 ### 03/22
 
-- [7의 개수]() /
+- [7의 개수](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week5/day_0322/CountOfSeven.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120912)
 
-- [소인수분해]() /
+- [소인수분해](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week5/day_0322/Factorization.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120852)
 
-- [공 던지기]() /
+- [공 던지기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week5/day_0322/TossTheBall.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120843)
 
-- [영어가 싫어요]() /
+- [영어가 싫어요](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week5/day_0322/HateEnglish.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120894)
 
-- [잘라서 배열로 저장하기]() /
+- [잘라서 배열로 저장하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week5/day_0322/CutAndStoreArray.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)
 
-- [문자열 계산하기]() /
+- [문자열 계산하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week5/day_0322/StringCalculator.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120902)
 
-- [구슬을 나누는 경우의 수]() /
+- [구슬을 나누는 경우의 수](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week5/day_0322/NumberOfDivideMarble.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
 
-- [컨트롤 제트]() /
+- [컨트롤 제트](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week5/day_0322/ControlZ.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120853)
 
-- [삼각형의 완성조건(2)]() /
+- [삼각형의 완성조건(2)](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week5/day_0322/ConditionOfTriangle.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120868)
 
-- [외계어 사전]() /
+- [외계어 사전](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week5/day_0322/AlienDictionary.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120869)
