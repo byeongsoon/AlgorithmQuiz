@@ -11,6 +11,7 @@
 3. [3주차](#3Week)
 4. [4주차](#4Week)
 5. [5주차](#5Week)
+6. [6주차](#6Week)
 
 ## 1Week
 
@@ -293,3 +294,74 @@
 
 - [외계어 사전](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week5/day_0322/AlienDictionary.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120869)
+
+
+## 6Week
+
+### 03/27
+
+- [캐릭터의 좌표]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120861)
+
+- [종이 자르기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)
+
+- [직사각형 넙이 구하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)
+
+- [로그인 성공?]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120883)
+
+- [치킨 쿠폰]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120884)
+
+### 03/28
+
+- [문자열 밀기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)
+
+- [유한소수 판별하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)
+
+- [등수 매기기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)
+
+- [특이한 정렬]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120880)
+
+- [저주의 숫자 3]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120871)
+
+- [다항식 더하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120863)
+
+### 03/29
+
+- [최빈값 구하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)
+
+- [OX퀴즈]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120907)
+
+- [다음에 올 숫자]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120924)
+
+- [분수의 덧셈]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120808)
+
+- [연속된 수의 합]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120923)
+
+### 03/30
+
+- [안전지대]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120866)
+
+- [겹치는 선분의 길이]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120876)
+
+- [평행]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
+
+- [옹알이(1)]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120956)
