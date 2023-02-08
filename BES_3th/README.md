@@ -300,19 +300,19 @@
 
 ### 03/27
 
-- [캐릭터의 좌표]() /
+- [캐릭터의 좌표](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0327/CharacterCoordinate.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120861)
 
-- [종이 자르기]() /
+- [종이 자르기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0327/CutPaper.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)
 
-- [직사각형 넙이 구하기]() /
+- [직사각형 넙이 구하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0327/AreaOfRectangle.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)
 
-- [로그인 성공?]() /
+- [로그인 성공?](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0327/LoginSuccess.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120883)
 
-- [치킨 쿠폰]() /
+- [치킨 쿠폰](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0327/ChickenCoupon.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120884)
 
 ### 03/28
