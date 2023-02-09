@@ -317,39 +317,39 @@
 
 ### 03/28
 
-- [문자열 밀기]() /
+- [문자열 밀기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0328/StringPush.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)
 
-- [유한소수 판별하기]() /
+- [유한소수 판별하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0328/DeterminationFiniteDecimal.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)
 
-- [등수 매기기]() /
+- [등수 매기기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0328/Ranking.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)
 
-- [특이한 정렬]() /
+- [특이한 정렬](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0328/UniqueSort.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120880)
 
-- [저주의 숫자 3]() /
+- [저주의 숫자 3](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0328/CursedNumber3.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120871)
 
-- [다항식 더하기]() /
+- [다항식 더하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0328/PolynomialAdd.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120863)
 
 ### 03/29
 
-- [최빈값 구하기]() /
+- [최빈값 구하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0329/MaxFrequency.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)
 
-- [OX퀴즈]() /
+- [OX퀴즈](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0329/OXQuiz.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120907)
 
-- [다음에 올 숫자]() /
+- [다음에 올 숫자](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0329/NextNumber.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120924)
 
-- [분수의 덧셈]() /
+- [분수의 덧셈](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0329/AddOfFraction.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120808)
 
-- [연속된 수의 합]() /
+- [연속된 수의 합](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0329/SumOfConsecutiveNumber.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120923)
 
 ### 03/30
