@@ -12,6 +12,7 @@
 4. [4주차](#4Week)
 5. [5주차](#5Week)
 6. [6주차](#6Week)
+7. [7주차](#7Week)
 
 ## 1Week
 
@@ -354,14 +355,22 @@
 
 ### 03/30
 
-- [안전지대]() /
+- [안전지대](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0330/SafeZone.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120866)
 
-- [겹치는 선분의 길이]() /
+- [겹치는 선분의 길이](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0330/OverlappingLength.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120876)
 
-- [평행]() /
+- [평행](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0330/Parallel.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
 
-- [옹알이(1)]() /
+- [옹알이(1)](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week6/day_0330/Babbling.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/120956)
+
+## 7Week
+
+### 04/03
+
+### 04/04
+
+### 04/05
