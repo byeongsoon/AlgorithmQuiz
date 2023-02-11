@@ -371,6 +371,36 @@
 
 ### 04/03
 
+- [평균 구하기]() / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)
+
+- [짝수와 홀수]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12937)
+
+- [약수의 합]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12928)
+
+- [자릿수 더하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)
+
 ### 04/04
 
+- [자연수 뒤집어 배열로 만들기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
+
+- [정수 제곱근 판별]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12934)
+
+- [문자열 내 p와 y의 개수]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12916)
+
 ### 04/05
+
+- [x만큼 간격이 있는 n개의 숫자]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12954)
+
+- [문자열을 정수로 바꾸기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)
+
+- [정수 내림차순으로 배치하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)
