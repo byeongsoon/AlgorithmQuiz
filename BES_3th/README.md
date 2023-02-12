@@ -13,6 +13,7 @@
 5. [5주차](#5Week)
 6. [6주차](#6Week)
 7. [7주차](#7Week)
+8. [8주차](#8Week)
 
 ## 1Week
 
@@ -371,38 +372,38 @@
 
 ### 04/03
 
-- [평균 구하기]() / 
+- [평균 구하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week7/day_0403/Average.java) / 
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)
 
-- [짝수와 홀수]() /
+- [짝수와 홀수](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week7/day_0403/EvenAndOdd.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12937)
 
-- [약수의 합]() /
+- [약수의 합](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week7/day_0403/SumOfDivisor.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12928)
 
-- [자릿수 더하기]() /
+- [자릿수 더하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week7/day_0403/AddDigits.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)
 
 ### 04/04
 
-- [자연수 뒤집어 배열로 만들기]() /
+- [자연수 뒤집어 배열로 만들기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week7/day_0404/ReverseNumberToArray.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
 
-- [정수 제곱근 판별]() /
+- [정수 제곱근 판별](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week7/day_0404/SquareRootDeterminate.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12934)
 
-- [문자열 내 p와 y의 개수]() /
+- [문자열 내 p와 y의 개수](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week7/day_0404/PAndYCount.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12916)
 
 ### 04/05
 
-- [x만큼 간격이 있는 n개의 숫자]() /
+- [x만큼 간격이 있는 n개의 숫자](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week7/day_0405/NumberSpacedByX.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12954)
 
-- [문자열을 정수로 바꾸기]() /
+- [문자열을 정수로 바꾸기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week7/day_0405/StringToNumber.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)
 
-- [정수 내림차순으로 배치하기]() /
+- [정수 내림차순으로 배치하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week7/day_0405/SortDescInteger.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)
 
 ## 8Week
