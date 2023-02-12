@@ -404,3 +404,37 @@
 
 - [정수 내림차순으로 배치하기]() /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)
+
+## 8Week
+
+### 04/11
+
+- [하샤드 수]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12947)
+
+- [나머지가 1이 되는 수 찾기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
+
+- [두 정수 사이의 합]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12912)
+
+- [콜라츠 추측]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12943)
+
+- [서울에서 김서방 찾기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)
+
+- [나누어 떨어지는 숫자 배열]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12910)
+
+- [핸드폰 번호 가리기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)
+
+- [제일 작은 수 제거하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)
+
+- [음양 더하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)
+
+- [없는 숫자 더하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
