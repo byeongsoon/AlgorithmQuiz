@@ -410,32 +410,32 @@
 
 ### 04/11
 
-- [하샤드 수]() /
+- [하샤드 수](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week8/day_0411/HashadNumber.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12947)
 
-- [나머지가 1이 되는 수 찾기]() /
+- [나머지가 1이 되는 수 찾기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week8/day_0411/RemainderIs1.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
 
-- [두 정수 사이의 합]() /
+- [두 정수 사이의 합](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week8/day_0411/SumBetweenTwoNumber.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12912)
 
-- [콜라츠 추측]() /
+- [콜라츠 추측](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week8/day_0411/Collatz.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12943)
 
-- [서울에서 김서방 찾기]() /
+- [서울에서 김서방 찾기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week8/day_0411/FindKim.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)
 
-- [나누어 떨어지는 숫자 배열]() /
+- [나누어 떨어지는 숫자 배열](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week8/day_0411/DivisibleNumberArray.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12910)
 
-- [핸드폰 번호 가리기]() /
+- [핸드폰 번호 가리기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week8/day_0411/CoverPhoneNumber.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)
 
-- [제일 작은 수 제거하기]() /
+- [제일 작은 수 제거하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week8/day_0411/RemoveMinNumber.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)
 
-- [음양 더하기]() /
+- [음양 더하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week8/day_0411/AddNegativePositive.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)
 
-- [없는 숫자 더하기]() /
+- [없는 숫자 더하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week8/day_0411/AddMissNumber.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
