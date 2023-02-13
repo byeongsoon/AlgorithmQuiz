@@ -439,3 +439,43 @@
 
 - [없는 숫자 더하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week8/day_0411/AddMissNumber.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
+
+## 9Week
+
+### 04/17
+
+- [가운데 글자 가져오기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)
+
+- [수박수박수박수박수박수?]() /
+  [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12922)
+
+- [내적]() /
+  [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/70128)
+
+### 04/18
+
+- [문자열 내림차순으로 배치하기]() /
+  [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)
+
+- [약수의 개수와 덧셈]() /
+  [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/77884)
+
+- [문자열 다루기 기본]() /
+  [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12918)
+
+### 04/19
+
+- [부족한 금액 계산하기]() /
+  [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)
+
+- [행렬의 덧셈]() /
+  [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12950)
+
+### 04/20
+
+- [직사각형 별찍기]() /
+  [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)
+
+- [최대공약수와 최소공배수]() /
+  [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12940)
