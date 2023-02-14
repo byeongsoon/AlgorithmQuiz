@@ -480,3 +480,39 @@
 
 - [최대공약수와 최소공배수](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week9/day_0420/GCFAndLCM.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12940)
+
+## 10Week
+
+### 04/24
+
+- [같은 숫자는 싫어 - 스택/큐]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
+
+- [3진법 뒤집기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)
+
+- [이상한 문자 만들기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)
+
+- [예산]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12982)
+
+- [시저 암호]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
+
+### 04/26
+
+- [최소직사각형 - 완전탐색]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
+
+- [삼총사]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
+
+- [비밀지도 - 2018 KAKAO 1차]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
+
+- [문자열 내 마음대로 정렬하기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)
+
+- [K번째 수]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
