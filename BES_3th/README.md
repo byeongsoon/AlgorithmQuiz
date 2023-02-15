@@ -15,6 +15,7 @@
 7. [7주차](#7Week)
 8. [8주차](#8Week)
 9. [9주차](#9Week)
+10. [10주차](#10Week)
 
 ## 1Week
 
@@ -485,19 +486,19 @@
 
 ### 04/24
 
-- [같은 숫자는 싫어 - 스택/큐]() /
+- [같은 숫자는 싫어 - 스택/큐](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week10/day_0424/HateSameNumber.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
 
-- [3진법 뒤집기]() /
+- [3진법 뒤집기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week10/day_0424/TernaryInversion.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)
 
-- [이상한 문자 만들기]() /
+- [이상한 문자 만들기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week10/day_0424/CreateWeirdCharacter.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)
 
-- [예산]() /
+- [예산](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week10/day_0424/Budget.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12982)
 
-- [시저 암호]() /
+- [시저 암호](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week10/day_0424/CaesarCipher.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
 
 ### 04/26
