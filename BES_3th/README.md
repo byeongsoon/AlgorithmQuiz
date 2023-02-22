@@ -503,17 +503,17 @@
 
 ### 04/26
 
-- [최소직사각형 - 완전탐색]() /
+- [최소직사각형 - 완전탐색](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week10/day_0426/MinimalRectangle.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
 
-- [삼총사]() /
+- [삼총사](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week10/day_0426/ThreeMusketeers.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
 
-- [비밀지도 - 2018 KAKAO 1차]() /
+- [비밀지도 - 2018 KAKAO 1차](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week10/day_0426/SecretMap.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
 
-- [문자열 내 마음대로 정렬하기]() /
+- [문자열 내 마음대로 정렬하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week10/day_0426/OnMyOwnSort.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)
 
-- [K번째 수]() /
+- [K번째 수](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week10/day_0426/KthNumber.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
