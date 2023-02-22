@@ -19,9 +19,4 @@ public class SecretMap {
         return answer;
     }
 
-    public static void main(String[] args) {
-        int t = Integer.parseInt("12",2);
-        System.out.println(t);
-    }
-
 }
