@@ -523,13 +523,13 @@
 
 ### 05/01
 
-- [숫자 문자열과 영단어 - 2021 카카오 채용연계형 인턴십]() /
+- [숫자 문자열과 영단어 - 2021 카카오 채용연계형 인턴십](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week11/day_0501/StringOfNumberAndWord.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
 
-- [두 개 뽑아서 더하기]() /
+- [두 개 뽑아서 더하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week11/day_0501/PickTwoAndAdd.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)
 
-- [2016년]() /
+- [2016년](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week11/day_0501/year2016.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12901)
 
 ### 05/02
