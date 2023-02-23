@@ -534,13 +534,13 @@
 
 ### 05/02
 
-- [폰켓몬 - 해시]() /
+- [폰켓몬 - 해시](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week11/day_0502/Phoneketmon.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 
-- [콜라 문제]() /
+- [콜라 문제](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week11/day_0502/ColaProblem.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
 
-- [크기가 작은 부분 문자열]() /
+- [크기가 작은 부분 문자열](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week11/day_0502/SmallSubstring.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/147355)
 
 ### 05/03
