@@ -17,6 +17,7 @@
 9. [9주차](#9Week)
 10. [10주차](#10Week)
 11. [11주차](#11Week)
+12. [12주차](#12Week)
 
 ## 1Week
 
@@ -556,3 +557,43 @@
 
 - [푸드 파이트 대회](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week11/day_0503/FoodFightCompetition.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
+
+## 12Week
+
+### 05/08
+
+- [실패율 - 2019 KAKAO]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
+
+- [가장 가까운 같은 글자]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
+
+- [다트 게임 - 2018 KAKAO 1차]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/17682)
+
+### 05/09
+
+- [로또의 최고 순위와 최저 순위]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
+
+- [과일 장수]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
+
+### 05/10
+
+- [체육복 - Greedy]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
+
+- [명예의 전당(1)]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/138477)
+
+- [완주하지 못한 선수]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
+
+### 05/11
+
+- [숫자 짝궁]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
+
+- [기사단원의 무기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)
