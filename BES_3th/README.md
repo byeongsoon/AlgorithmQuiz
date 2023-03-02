@@ -545,14 +545,14 @@
 
 ### 05/03
 
-- [소수 찾기]() /
+- [소수 찾기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week11/day_0503/FindPrimeNumber.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)
 
-- [모의고사]() /
+- [모의고사](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week11/day_0503/MockExam.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
 
-- [소수 만들기]() /
+- [소수 만들기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week11/day_0503/MakePrimeNumbers.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)
 
-- [푸드 파이트 대회]() /
+- [푸드 파이트 대회](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week11/day_0503/FoodFightCompetition.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
