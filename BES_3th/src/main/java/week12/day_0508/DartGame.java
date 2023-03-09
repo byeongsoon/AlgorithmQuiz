@@ -1,10 +1,11 @@
 package week12.day_0508;
 
+import java.util.Arrays;
+
 public class DartGame {
 
     public int solution(String dartResult) {
-        int answer = 0;
-        int[] score = new int[4];
+        int[] score = new int[3];
         String[] results = dartResult.split("");
 
         for (int i = 0, index = 0; i < results.length; i++) {
@@ -24,11 +25,15 @@ public class DartGame {
             }
         }
 
+        return Arrays.stream(score).sum();
+
+        /*
+        int answer = 0;
         for (int n: score) {
             answer += n;
         }
-
         return answer;
+         */
     }
 
     private int calculateBonus(String bonus, int score) {
@@ -42,26 +47,13 @@ public class DartGame {
 
     private void calculateOption(int[] score, String option, int index) {
         if ("*".equals(option)) {
-            System.out.println(index);
             score[index-1] *= 2;
             if (index > 1) {
                 score[index-2] *= 2;
             }
-//            for (int i = 0; i < index; i++) {
-//                score[i] *= 2;
-//            }
         } else if ("#".equals(option)) {
             score[index-1] *= -1;
         }
-    }
-
-    public static void main(String[] args) {
-        DartGame test = new DartGame();
-        int answer = test.solution("1D2S3T*");
-        // 2 + 4 + 54
-        System.out.println(answer);
-        answer = test.solution("10D4S10D");
-        System.out.println(answer);
     }
 
 }
