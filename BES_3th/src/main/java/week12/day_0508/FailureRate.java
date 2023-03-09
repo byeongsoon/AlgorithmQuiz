@@ -46,12 +46,4 @@ public class FailureRate {
         return result;
     }
 
-
-    public static void main(String[] args) {
-        FailureRate test = new FailureRate();
-        int N = 4;
-        int[] stages = {4,4,4,4,4};
-        test.solution(N, stages);
-    }
-
 }

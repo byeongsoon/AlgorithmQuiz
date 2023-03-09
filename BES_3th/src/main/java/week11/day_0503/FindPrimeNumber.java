@@ -26,9 +26,4 @@ public class FindPrimeNumber {
         return answer;
     }
 
-    public static void main(String[] args) {
-        FindPrimeNumber test = new FindPrimeNumber();
-        test.solution(10);
-    }
-
 }
