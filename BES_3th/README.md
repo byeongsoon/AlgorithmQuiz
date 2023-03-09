@@ -562,13 +562,13 @@
 
 ### 05/08
 
-- [실패율 - 2019 KAKAO]() /
+- [실패율 - 2019 KAKAO](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week12/day_0508/FailureRate.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
 
-- [가장 가까운 같은 글자]() /
+- [가장 가까운 같은 글자](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week12/day_0508/NearestIdenticalLetter.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
 
-- [다트 게임 - 2018 KAKAO 1차]() /
+- [다트 게임 - 2018 KAKAO 1차](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week12/day_0508/DartGame.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/17682)
 
 ### 05/09
