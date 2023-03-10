@@ -1,32 +1,46 @@
 package week12.day_0509;
 
-import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
 
 public class LottoHighAndLowRank {
 
     public int[] solution(int[] lottos, int[] win_nums) {
         int[] answer = new int[2];
-        Arrays.sort(lottos);
-        Arrays.sort(win_nums);
+        Set<Integer> lottoNumbers = new HashSet<>();
+        Set<Integer> winNumbers = new HashSet<>();
 
         if (isSameNumbers(lottos, win_nums)) {
             answer[0] = 1; answer[1] = 1;
             return answer;
         }
 
-        return calculateRank(zeroCount(lottos), winCount(lottos,win_nums));
-    }
-
-    private int[] calculateRank(int zeroCount, int winCount) {
-        int[] answer = new int[2];
-
-        answer[1] = getRank(winCount);
-        if (zeroCount == 0) {
-            answer[0] = getRank(winCount);
-            return answer;
+        int zeroCount = 0;
+        for (int n: lottos) {
+            if (n != 0) {
+                lottoNumbers.add(n);
+                continue;
+            }
+            zeroCount++;
         }
 
-        answer[0] = getRank(zeroCount + winCount);
+        for (int n: win_nums) {
+            winNumbers.add(n);
+        }
+
+        lottoNumbers.retainAll(winNumbers);
+        return calculateRank(lottoNumbers, zeroCount);
+    }
+
+    private int[] calculateRank(Set<Integer> lottoNumbers, int zeroCount) {
+        int[] answer = new int[2];
+
+        int maxCount = lottoNumbers.size() + zeroCount;
+        int minCount = lottoNumbers.size();
+
+        answer[0] = getRank(maxCount);
+        answer[1] = getRank(minCount);
+
         return answer;
     }
 
@@ -44,50 +58,6 @@ public class LottoHighAndLowRank {
         return 0;
     }
 
-    private int zeroCount(int[] lotts) {
-        int count = 0;
-
-        for (int n: lotts) {
-            if (n == 0) {
-                count++;
-            }
-        }
-
-        return count;
-    }
-
-    private int winCount(int[] lottos, int[] winNums) {
-        int count = 0;
-
-        for (int n: lottos) {
-            if (binarySearch(winNums,n)) {
-                count++;
-            }
-        }
-
-        return count;
-    }
-
-    private boolean binarySearch(int[] winNums, int number) {
-        int lower = 0;
-        int upper = winNums.length - 1;
-
-        while (lower < upper) {
-            int mid = (lower + upper) / 2;
-
-            if (winNums[mid] == number) {
-                return true;
-            }
-            if (winNums[mid] > number) {
-                upper = mid - 1;
-                continue;
-            }
-            lower = mid + 1;
-        }
-
-        return false;
-    }
-
     private boolean isSameNumbers(int[] lottos, int[] winNums) {
         for (int i  = 0; i < lottos.length; i++) {
             if (lottos[i] != winNums[i]) {
@@ -95,15 +65,6 @@ public class LottoHighAndLowRank {
             }
         }
         return true;
-    }
-
-    public static void main(String[] args) {
-        LottoHighAndLowRank test = new LottoHighAndLowRank();
-        int[] lottos = {0,0,0,0,0,0};
-        int[] win = {38,19,20,40,15,25};
-        int[] answer = test.solution(lottos, win);
-
-        System.out.println(answer[0] + ", " + answer[1]);
     }
 
 }
