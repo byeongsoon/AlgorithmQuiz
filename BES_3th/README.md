@@ -573,10 +573,10 @@
 
 ### 05/09
 
-- [로또의 최고 순위와 최저 순위]() /
+- [로또의 최고 순위와 최저 순위](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week12/day_0509/LottoHighAndLowRank.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
 
-- [과일 장수]() /
+- [과일 장수](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week12/day_0509/FruitSeller.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
 
 ### 05/10
