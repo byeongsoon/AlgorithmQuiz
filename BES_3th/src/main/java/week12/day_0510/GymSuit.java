@@ -20,7 +20,6 @@ public class GymSuit {
                 continue;
             }
             lostSet.add(m);
-
         }
 
         for (int k: lostSet) {
