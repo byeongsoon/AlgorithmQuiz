@@ -581,13 +581,13 @@
 
 ### 05/10
 
-- [체육복 - Greedy]() /
+- [체육복 - Greedy](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week12/day_0510/GymSuit.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
 
-- [명예의 전당(1)]() /
+- [명예의 전당(1)](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week12/day_0510/HallOfFame.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/138477)
 
-- [완주하지 못한 선수]() /
+- [완주하지 못한 선수](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week12/day_0510/AthletesNotFinish.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
 
 ### 05/11
