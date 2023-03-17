@@ -597,3 +597,36 @@
 
 - [기사단원의 무기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week12/day_0511/TemplarWeapon.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)
+
+## 13Week
+
+### 05/15
+
+- [키패드 누르기 - 2020 카카오 인턴십]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)
+
+- [크레인 인형뽑기 게임 - 2019 카카오 개발자 겨울 인턴십]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+
+- [옹알이(2)]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/133499)
+
+- [신규 아이디 추천 - 2021 카카오 블라인드 채용]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/72410)
+
+- [문자열 나누기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)
+
+### 05/17
+
+- [성격 유형 검사하지 - 2022 카카오 테크 인턴십]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
+
+- [햄버거 만들기]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
+
+- [신고 결과 받기 - 2022 카카오 블라인드 채용]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+
+- [개인정보 수집 유효기간 - 2023 카카오 블라인드 채용]() /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
