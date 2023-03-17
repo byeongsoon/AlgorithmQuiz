@@ -592,8 +592,8 @@
 
 ### 05/11
 
-- [숫자 짝궁]() /
+- [숫자 짝궁](https://github.com/byeongsoon/AlgorithmQuiz/blob/2a5b41f04fadc4487b4253abaf4f2f5bb052c8cb/BES_3th/src/main/java/week12/day_0511/NumberPair.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
 
-- [기사단원의 무기]() /
+- [기사단원의 무기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week12/day_0511/TemplarWeapon.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)
