@@ -2,11 +2,11 @@ package week13.day_0515;
 
 
 public class PressKeypad {
+    StringBuilder answer = new StringBuilder();
+    int leftHand = 10;
+    int rightHand = 12;
 
     public String solution(int[] numbers, String hand) {
-        StringBuilder answer = new StringBuilder();
-        int leftHand = 10;
-        int rightHand = 12;
 
         for (int n: numbers) {
             if (isBasicLeftHand(n)) {
@@ -22,29 +22,34 @@ public class PressKeypad {
             if (n == 0) {
                 n = 11;
             }
-            int leftDistance = calculateDistance(n, leftHand);
-            int rightDistance = calculateDistance(n, rightHand);
 
-            if (leftDistance == rightDistance) {
-                String h = "right".equals(hand) ? "R" : "L";
-                answer.append(h);
-
-                if ("R".equals(h)) {
-                    rightHand = n;
-                } else {
-                    leftHand = n;
-                }
-                continue;
-            } else if (leftDistance < rightDistance) {
-                answer.append("L");
-                leftHand = n;
-                continue;
-            }
-            answer.append("R");
-            rightHand = n;
+            choiceHand(n, hand);
         }
 
         return answer.toString();
+    }
+
+    private void choiceHand(int n, String hand) {
+        int leftDistance = calculateDistance(n, leftHand);
+        int rightDistance = calculateDistance(n, rightHand);
+
+        if (leftDistance == rightDistance) {
+            String h = "right".equals(hand) ? "R" : "L";
+            answer.append(h);
+
+            if ("R".equals(h)) {
+                rightHand = n;
+            } else {
+                leftHand = n;
+            }
+            return;
+        } else if (leftDistance < rightDistance) {
+            answer.append("L");
+            leftHand = n;
+            return;
+        }
+        answer.append("R");
+        rightHand = n;
     }
 
     private int calculateDistance(int n, int hand) {
