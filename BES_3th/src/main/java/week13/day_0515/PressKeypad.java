@@ -8,7 +8,7 @@ public class PressKeypad {
 
     public String solution(int[] numbers, String hand) {
 
-        for (int n: numbers) {
+        for (int n : numbers) {
             if (isBasicLeftHand(n)) {
                 answer.append("L");
                 leftHand = n;
