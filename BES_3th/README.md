@@ -602,19 +602,19 @@
 
 ### 05/15
 
-- [키패드 누르기 - 2020 카카오 인턴십]() /
+- [키패드 누르기 - 2020 카카오 인턴십](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week13/day_0515/PressKeypad.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)
 
-- [크레인 인형뽑기 게임 - 2019 카카오 개발자 겨울 인턴십]() /
+- [크레인 인형뽑기 게임 - 2019 카카오 개발자 겨울 인턴십](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week13/day_0515/CranePuppetGame.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
 
-- [옹알이(2)]() /
+- [옹알이(2)](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week13/day_0515/BabblingTwo.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/133499)
 
-- [신규 아이디 추천 - 2021 카카오 블라인드 채용]() /
+- [신규 아이디 추천 - 2021 카카오 블라인드 채용](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week13/day_0515/NewIDRecommendation.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/72410)
 
-- [문자열 나누기]() /
+- [문자열 나누기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week13/day_0515/SplitString.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)
 
 ### 05/17
