@@ -41,9 +41,4 @@ public class SplitString {
         return answer;
     }
 
-    public static void main(String[] args) {
-        SplitString test = new SplitString();
-        System.out.println(test.solution("abracadabraaaa"));
-    }
-
 }
