@@ -25,10 +25,6 @@ public class PersonalityTypeTest {
             }
         }
 
-        for (String s: surveyScore.keySet()) {
-            System.out.println(s + " : " + surveyScore.get(s));
-        }
-
         for (String s : indicators) {
             answer.append(getResult(surveyScore, s));
         }
