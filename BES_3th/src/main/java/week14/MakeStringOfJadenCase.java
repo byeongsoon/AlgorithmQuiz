@@ -1,6 +1,4 @@
-package etc;
-
-import java.util.Objects;
+package week14;
 
 public class MakeStringOfJadenCase {
     public String solution(String s) {
