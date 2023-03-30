@@ -619,14 +619,14 @@
 
 ### 05/17
 
-- [성격 유형 검사하지 - 2022 카카오 테크 인턴십]() /
+- [성격 유형 검사하지 - 2022 카카오 테크 인턴십](https://github.com/byeongsoon/AlgorithmQuiz/blob/3b558b62f8bc46c0a0ab8725ea41cde11e88da3a/BES_3th/src/main/java/week13/day_0517/PersonalityTypeTest.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
 
-- [햄버거 만들기]() /
+- [햄버거 만들기](https://github.com/byeongsoon/AlgorithmQuiz/blob/3b558b62f8bc46c0a0ab8725ea41cde11e88da3a/BES_3th/src/main/java/week13/day_0517/MakeHamburger.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
 
-- [신고 결과 받기 - 2022 카카오 블라인드 채용]() /
+- [신고 결과 받기 - 2022 카카오 블라인드 채용](https://github.com/byeongsoon/AlgorithmQuiz/blob/3b558b62f8bc46c0a0ab8725ea41cde11e88da3a/BES_3th/src/main/java/week13/day_0517/DeclarationResultReport.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
 
-- [개인정보 수집 유효기간 - 2023 카카오 블라인드 채용]() /
+- [개인정보 수집 유효기간 - 2023 카카오 블라인드 채용](https://github.com/byeongsoon/AlgorithmQuiz/blob/3b558b62f8bc46c0a0ab8725ea41cde11e88da3a/BES_3th/src/main/java/week13/day_0517/PersonalInformation.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
