@@ -6,7 +6,7 @@ import java.util.Collections;
 public class MakeMinimum {
 
     public int solution(int[] A, int[] B) {
-        int answer = 0;
+        Integer answer = 0;
         Integer[] tempB = Arrays.stream(B).boxed().toArray(Integer[]::new);
 
         Arrays.sort(A);
@@ -16,7 +16,7 @@ public class MakeMinimum {
             answer += A[i] * tempB[i];
         }
 
-        return (Integer) answer;
+        return answer;
     }
 
 }
