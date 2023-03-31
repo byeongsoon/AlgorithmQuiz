@@ -18,6 +18,9 @@
 10. [10주차](#10Week)
 11. [11주차](#11Week)
 12. [12주차](#12Week)
+13. [13주차](#13Week)
+14. [14주차](#14Week)
+15. [15주차](#15Week)
 
 ## 1Week
 
@@ -630,3 +633,37 @@
 
 - [개인정보 수집 유효기간 - 2023 카카오 블라인드 채용](https://github.com/byeongsoon/AlgorithmQuiz/blob/3b558b62f8bc46c0a0ab8725ea41cde11e88da3a/BES_3th/src/main/java/week13/day_0517/PersonalInformation.java) /
 [문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
+
+## 14Week
+
+- [최댓값과 최솟값](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week14/MaxAndMinValue.java) / 
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
+
+- [JadenCase 문자열 만들기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week14/MakeStringOfJadenCase.java) /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+
+- [최솟값 만들기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week14/MakeMinimum.java) /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
+
+- [올바른 괄호](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week14/CorrectParentheses.java) /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+
+- [이진 변환 반복하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week14/RepeatBinaryConversion.java) /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
+
+- [숫자의 표현](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week14/RepresentationOfNumber.java) /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
+
+- [피보나치 수](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week14/FibonacciNumber.java) /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+
+- [다음 큰 숫자](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week14/NextBigNumber.java) /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
+
+- [짝지어 제거하기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week14/RemovePair.java) /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
+
+- [영어 끝말잇기](https://github.com/byeongsoon/AlgorithmQuiz/blob/master/BES_3th/src/main/java/week14/EnglishConnectEnding.java) /
+[문제 보러가기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
+
+## 15Week
