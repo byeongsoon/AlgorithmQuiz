@@ -5,10 +5,8 @@ public class LongJump {
     public long solution(int n) {
         long[] fibonacci = new long[n + 1];
 
-        if(n == 1) {
-            return 1;
-        } else if(n == 2) {
-            return 2;
+        if(n <= 2) {
+            return n;
         }
 
         fibonacci[0] = 0;
