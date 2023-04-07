@@ -45,12 +45,4 @@ public class RotateParenthesis {
         return s.substring(1) + end;
     }
 
-    public static void main(String[] args) {
-        String s = "[](){}";
-        RotateParenthesis test = new RotateParenthesis();
-        System.out.println(test.rotate(s));
-
-        System.out.println(test.isCorrectParentheses(test.rotate(s)));
-    }
-
 }
