@@ -31,13 +31,4 @@ public class PaintOver {
         }
     }
 
-    public static void main(String[] args) {
-        int n = 4;
-        int m = 1;
-        int[] section = {1,2,3,4};
-
-        PaintOver test = new PaintOver();
-        System.out.println(test.solution(n, m, section));
-    }
-
 }
