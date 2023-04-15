@@ -36,14 +36,7 @@ public class DoublePriorityQueue {
 
         answer[0] = desc.peek();
         answer[1] = asc.peek();
-        System.out.println(answer[0] + ", " + answer[1]);
         return answer;
-    }
-
-    public static void main(String[] args) {
-        DoublePriorityQueue test = new DoublePriorityQueue();
-        String[] input = {"I -45", "I 653", "D 1", "I -642", "I 45", "I 97", "D 1", "D -1", "I 333"};
-        test.solution(input);
     }
 
 }
