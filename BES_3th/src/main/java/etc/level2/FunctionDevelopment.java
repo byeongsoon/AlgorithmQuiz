@@ -40,7 +40,7 @@ public class FunctionDevelopment {
     }
 
     private int getDeployCount(List<Integer> progress, List<Integer> speed) {
-        int count = 0, index = 0;
+        int count = 0;
 
         while(true) {
             if (progress.isEmpty() || progress.get(0) < 100) {
@@ -52,13 +52,6 @@ public class FunctionDevelopment {
         }
 
         return count;
-    }
-
-    public static void main(String[] args) {
-        FunctionDevelopment test = new FunctionDevelopment();
-        int[] progresses = {93, 30, 55};
-        int[] speeds = {1, 30, 5};
-        test.solution(progresses, speeds);
     }
 
 }
