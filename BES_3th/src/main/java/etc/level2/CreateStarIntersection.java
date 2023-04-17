@@ -31,23 +31,14 @@ class CreateStarIntersection {
             }
         }
 
-
-        System.out.println(yMin + "," + xMin);
-
-        for (Point p : points) {
-            System.out.println(p);
-        }
-
         String[] answer = new String[(int) (yMax - yMin + 1)];
         for (int i = 0; i < answer.length; i++) {
             char[] row = new char[(int) (xMax - xMin + 1)];
-            for (int j = 0; j < row.length; j++) {
-                row[j] = '.';
-            }
+            Arrays.fill(row, '.');
 
             for (Point p : points) {
                 if (i == p.y - yMin) {
-                    row[(int) (p.x + Math.abs(xMin))] = '*';
+                    row[(int) (p.x - xMin)] = '*';
                 }
             }
             answer[i] = String.copyValueOf(row);
