@@ -15,13 +15,7 @@ public class FunctionDevelopment {
             speed.add(speeds[i]);
         }
 
-        while(true) {
-            if (progress.isEmpty()) {
-                break;
-            }
-
-            System.out.println(progress.size());
-
+        while(!progress.isEmpty()) {
             for(int i = 0; i < progress.size(); i++) {
                 int element = progress.get(i);
                 if (element >= 100) {
@@ -42,10 +36,7 @@ public class FunctionDevelopment {
     private int getDeployCount(List<Integer> progress, List<Integer> speed) {
         int count = 0;
 
-        while(true) {
-            if (progress.isEmpty() || progress.get(0) < 100) {
-                break;
-            }
+        while (!progress.isEmpty() && progress.get(0) >= 100) {
             progress.remove(0);
             speed.remove(0);
             count++;
