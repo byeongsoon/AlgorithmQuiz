@@ -51,15 +51,6 @@ class CreateStarIntersection {
         return answer;
     }
 
-    public static void main(String[] args) {
-        CreateStarIntersection test = new CreateStarIntersection();
-        int[][] line = {{0, 1, -1}, {1, 0, -1}, {1, 0, 1}};
-        String[] result = test.solution(line);
-        for (String s : result) {
-            System.out.println(s);
-        }
-    }
-
     private Point intersection(int[] line1, int[] line2) {
         // Ax + By + E = 0
         double A = line1[0];
