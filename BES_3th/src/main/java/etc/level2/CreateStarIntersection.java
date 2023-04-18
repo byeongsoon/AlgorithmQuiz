@@ -5,9 +5,10 @@ import java.util.*;
 class CreateStarIntersection {
     public String[] solution(int[][] line) {
         Set<Point> points = new HashSet<>();
+        long[] xRange = new long[2];
+        long[] yRange = new long[2];
 
-        long xMin = Long.MAX_VALUE, xMax = Long.MIN_VALUE;
-        long yMin = Long.MAX_VALUE, yMax = Long.MIN_VALUE;
+        rangeValueInit(xRange, yRange);
 
         for(int i = 0; i < line.length - 1; i++) {
             for(int j = i + 1; j < line.length; j++) {
@@ -16,39 +17,50 @@ class CreateStarIntersection {
                     continue;
                 }
                 points.add(point);
-                if (point.x < xMin) {
-                    xMin = point.x;
+                if (point.x < xRange[0]) {
+                    xRange[0] = point.x;
                 }
-                if (point.x > xMax) {
-                    xMax = point.x;
+                if (point.x > xRange[1]) {
+                    xRange[1] = point.x;
                 }
-                if (point.y < yMin) {
-                    yMin = point.y;
+                if (point.y < yRange[0]) {
+                    yRange[0] = point.y;
                 }
-                if (point.y > yMax) {
-                    yMax = point.y;
+                if (point.y > yRange[1]) {
+                    yRange[1] = point.y;
                 }
             }
         }
 
-        String[] answer = new String[(int) (yMax - yMin + 1)];
+        String[] answer = new String[(int) (yRange[1] - yRange[0] + 1)];
         for (int i = 0; i < answer.length; i++) {
-            char[] row = new char[(int) (xMax - xMin + 1)];
+            char[] row = new char[(int) (xRange[1] - xRange[0] + 1)];
             Arrays.fill(row, '.');
 
             for (Point p : points) {
-                if (i == p.y - yMin) {
-                    row[(int) (p.x - xMin)] = '*';
+                if (i == p.y - yRange[0]) {
+                    row[(int) (p.x - xRange[0])] = '*';
                 }
             }
             answer[i] = String.copyValueOf(row);
         }
 
-        List<String> list = Arrays.asList(answer);
+
+        return reverseArray(answer);
+    }
+
+    private void rangeValueInit(final long[] xRange, final long[] yRange) {
+        xRange[0] = Long.MAX_VALUE;
+        xRange[1] = Long.MIN_VALUE;
+        yRange[0] = Long.MAX_VALUE;
+        yRange[1] = Long.MIN_VALUE;
+    }
+
+    private String[] reverseArray(final String[] array) {
+        List<String> list = Arrays.asList(array);
         Collections.reverse(list);
 
-        answer = list.toArray(new String[list.size()]);
-        return answer;
+        return list.toArray(new String[list.size()]);
     }
 
     private Point intersection(int[] line1, int[] line2) {
@@ -88,12 +100,8 @@ class Point {
         this.y = y;
     }
 
-    public static Point of(long x, long y) {
-        return new Point(x, y);
-    }
-
     public static Point of(double x, double y) {
-        return of((long) x, (long) y);
+        return new Point((long) x, (long) y);
     }
 
     @Override
@@ -114,10 +122,8 @@ class Point {
 
     @Override
     public String toString() {
-        return "Point{" +
-            "x=" + x +
-            ", y=" + y +
-            '}';
+        return "x = " + x +
+            ", y = " + y;
     }
 
 }
