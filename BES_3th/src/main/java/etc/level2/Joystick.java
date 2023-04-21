@@ -3,19 +3,28 @@ package etc.level2;
 public class Joystick {
 
     public int solution(String name) {
-        int answer = name.length() - 1;
+        int answer = 0;
         char[] alphabet = name.toCharArray();
+        int size = alphabet.length;
 
-        for(int i = 0; i < alphabet.length; i++) {
+        int move = size - 1;
+        for(int i = 0; i < size; i++) {
             int sub = Math.abs((int) ('A' - alphabet[i]));
             if (sub > 13) {
                 answer += downCount('A', alphabet[i]);
-                continue;
+            } else {
+                answer += upCount('A', alphabet[i]);
             }
-            answer += upCount('A', alphabet[i]);
+
+            int index = i + 1;
+            while(index < size && alphabet[index] == 'A') {
+                index++;
+            }
+
+            move = Math.min(Math.min(move, i * 2 + size - index),Math.min(move, (size - index) * 2 + i));
         }
 
-        return answer;
+        return answer + move;
     }
 
     private int downCount(char base, char target) {
