@@ -1,7 +1,11 @@
 package etc.level2;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 public class FunctionDevelopment {
 
@@ -43,6 +47,29 @@ public class FunctionDevelopment {
         }
 
         return count;
+    }
+
+    public int[] otherSolution(int[] progresses, int[] speeds) {
+        Queue<Integer> queue = IntStream
+            .range(0, progresses.length)
+            .mapToObj(i -> (int) Math.ceil((100.0 - progresses[i]) / speeds[i]))
+            .collect(Collectors.toCollection(LinkedList::new));
+
+        List<Integer> answer = new ArrayList<>();
+
+        while (!queue.isEmpty()) {
+            int remains = queue.poll();
+            int count = 1;
+
+            while (!queue.isEmpty() && remains >= queue.peek()) {
+                queue.poll();
+                count++;
+            }
+
+            answer.add(count);
+        }
+
+        return answer.stream().mapToInt(Integer::intValue).toArray();
     }
 
 }
