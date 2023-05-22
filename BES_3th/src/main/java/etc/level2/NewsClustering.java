@@ -12,7 +12,8 @@ public class NewsClustering {
         str1 = str1.toLowerCase();
         str2 = str2.toLowerCase();
 
-        makeMultiSet(str1, str2);
+        makeMultiSet(multiset1, str1);
+        makeMultiSet(multiset2, str2);
 
         if (multiset1.size() == 0 && multiset2.size() == 0) {
             return 65536;
@@ -37,16 +38,10 @@ public class NewsClustering {
         return multiset2.size();
     }
 
-    private void makeMultiSet(final String str1, final String str2) {
-        for (int i = 0; i < str1.length() - 1; i++) {
-            if (isAlphabet(str1.charAt(i)) && isAlphabet(str1.charAt(i+1))) {
-                multiset1.add(str1.charAt(i) + "" + str1.charAt(i+1));
-            }
-        }
-
-        for (int i = 0; i < str2.length() - 1; i++) {
-            if (isAlphabet(str2.charAt(i)) && isAlphabet(str2.charAt(i+1))) {
-                multiset2.add(str2.charAt(i) + "" + str2.charAt(i+1));
+    private void makeMultiSet(final List<String> list, final String str) {
+        for (int i = 0; i < str.length() - 1; i++) {
+            if (isAlphabet(str.charAt(i)) && isAlphabet(str.charAt(i + 1))) {
+                list.add(str.charAt(i) + "" + str.charAt(i + 1));
             }
         }
     }
