@@ -1,10 +1,7 @@
 package etc.baekjoon.platinum;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.StringTokenizer;
+import java.util.*;
 
 public class FindMinimum {
 
@@ -17,40 +14,35 @@ public class FindMinimum {
         int l = Integer.parseInt(tokenizer.nextToken());
 
         tokenizer = new StringTokenizer(br.readLine());
-        int[] arr = new int[n];
+        Deque<Node> deque = new LinkedList<>();
         for (int i = 0; i < n; i++) {
-            arr[i] = Integer.parseInt(tokenizer.nextToken());
-        }
-
-        List<Integer> answer = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            int [] copyArr;
-            if (i - l + 1 >= 0) {
-                copyArr = Arrays.copyOfRange(arr, i - l + 1, i + 1);
-            } else {
-                copyArr = Arrays.copyOfRange(arr, 0, i + 1);
+            int now = Integer.parseInt(tokenizer.nextToken());
+            while (!deque.isEmpty() && deque.peekLast().value > now) {
+                deque.removeLast();
             }
-            answer.add(getMinimum(copyArr));
-        }
 
-        for (int m: answer){
-            bw.write(String.valueOf(m) + " ");
+            deque.addLast(new Node(i, now));
+
+            if (deque.getFirst().index <= i - l) {
+                deque.removeFirst();
+            }
+
+            bw.write(deque.getFirst().value + " ");
         }
 
         br.close();
+        bw.flush();
         bw.close();
     }
 
-    private static int getMinimum(int[] arr) {
-        int minimum = Integer.MAX_VALUE;
+    static class Node {
+        int index;
+        int value;
 
-        for (int n: arr) {
-            if (n < minimum) {
-                minimum = n;
-            }
+        public Node(int index, int value) {
+            this.index = index;
+            this.value = value;
         }
-
-        return minimum;
     }
 
 }
