@@ -1,0 +1,4 @@
+/* Level 2 - 중복 제거하기 */
+SELECT DISTINCT COUNT(DISTINCT a.NAME) AS 'count'
+FROM ANIMAL_INS a;
+
