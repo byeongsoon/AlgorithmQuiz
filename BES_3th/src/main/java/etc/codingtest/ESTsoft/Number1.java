@@ -1,4 +1,4 @@
-package etc.ESTsoft;
+package etc.codingtest.ESTsoft;
 
 public class Number1 {
 
