@@ -9,3 +9,7 @@ FROM PRODUCT;
 /* Level 1 - 최댓값 구하기 */
 SELECT MAX(DATETIME) AS '시간'
 FROM ANIMAL_INS;
+
+/* Level 2 - 최솟값 구하기 */
+SELECT MIN(DATETIME) AS '시간'
+FROM ANIMAL_INS;
