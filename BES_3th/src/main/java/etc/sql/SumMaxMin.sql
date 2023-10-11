@@ -13,3 +13,7 @@ FROM ANIMAL_INS;
 /* Level 2 - 최솟값 구하기 */
 SELECT MIN(DATETIME) AS '시간'
 FROM ANIMAL_INS;
+
+/* Level 2 - 동물 수 구하기 */
+SELECT COUNT(ANIMAL_ID)
+FROM ANIMAL_INS;
