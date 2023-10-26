@@ -1,24 +1,27 @@
 package etc.level2;
 
+import java.util.PriorityQueue;
 
 public class FindTheNextBigNumber {
 
     public int[] solution(int[] numbers) {
         int[] answer = new int[numbers.length];
+        PriorityQueue<int[]> queue = new PriorityQueue<>((a,b) -> a[1] - b[1]);
 
-        for (int i = 0; i < numbers.length - 1; i++) {
-            for (int j = i + 1; j < numbers.length; j++) {
-                if (j == numbers.length - 1) {
-                    answer[i] = -1;
-                }
-                if (numbers[i] < numbers[j]) {
-                    answer[i] = numbers[j];
-                    break;
-                }
+        for (int i = 0; i < numbers.length; i++) {
+            int value = numbers[i];
+
+            while (!queue.isEmpty() && queue.peek()[1] < value) {
+                answer[queue.poll()[0]] = value;
             }
+
+            queue.add(new int[]{i, value});
         }
 
-        answer[answer.length - 1] = -1;
+        while (!queue.isEmpty()) {
+            answer[queue.poll()[0]] = -1;
+        }
+
         return answer;
     }
 
