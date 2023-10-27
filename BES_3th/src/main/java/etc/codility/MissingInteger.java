@@ -1,6 +1,6 @@
 package etc.codility;
 
-public class FindSmallPositiveInteger {
+public class MissingInteger {
 
     public int solution(int[] A) {
         int answer = 1;
